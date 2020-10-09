@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b2b376-440b-4cf5-9f1c-b1da363e4ed9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dokumentation/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dokumentation/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dokumentation/3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,18 +21,19 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dokumentation" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dokumentation" />
+      <recent name="$PROJECT_DIR$/components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/components" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -54,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602191978472</updated>
-      <workItem from="1602191980415" duration="16186000" />
+      <workItem from="1602191980415" duration="16376000" />
+      <workItem from="1602258900425" duration="133000" />
     </task>
     <task id="LOCAL-00001" summary="[TASK] | MIS-6 | JS | add header to app">
       <created>1602192370985</created>
@@ -70,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602257903188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[TASK] | MIS-6 | md | add ReadME file">
+      <created>1602258346547</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602258346547</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -90,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[TASK] | MIS-6 | JS | add header to app" />
     <MESSAGE value="[TASK] | MIS-6 | JS, CSS | finish the Calculator Application" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TASK] | MIS-6 | JS, CSS | finish the Calculator Application" />
+    <MESSAGE value="[TASK] | MIS-6 | md | add ReadME file" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TASK] | MIS-6 | md | add ReadME file" />
   </component>
 </project>

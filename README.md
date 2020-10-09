@@ -37,7 +37,9 @@ npm install
 npm start
 ```
 
-
+<div align="center">
+  <img src="documentation/1.png" width="110" height="110" alt="React Native"/>  
+</div>
 
 
 ## Author

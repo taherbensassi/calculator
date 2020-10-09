@@ -38,14 +38,16 @@ npm start
 ```
 
 
-  <img src="documentation/1.png"  alt="React Native"/>  
 
 
-  <img src="documentation/2.png"  alt="React Native"/> 
-   
-  <img src="documentation/3.png"  alt="React Native"/>  
   
-
+<table width="100%" border="0">
+  <tr>    
+  <td>  <img src="documentation/1.png"  align="left"  alt="React Native"/>  </td>
+  <td><img src="documentation/2.png" alt="" align="center" /></td>
+  <td><img src="documentation/3.png" alt="" align="right"/></td>
+  </tr>
+</table>
 
 ## Author
 

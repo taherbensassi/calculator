@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b2b376-440b-4cf5-9f1c-b1da363e4ed9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602191978472</updated>
-      <workItem from="1602191980415" duration="15743000" />
+      <workItem from="1602191980415" duration="16186000" />
     </task>
     <task id="LOCAL-00001" summary="[TASK] | MIS-6 | JS | add header to app">
       <created>1602192370985</created>
@@ -69,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602192370985</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[TASK] | MIS-6 | JS, CSS | finish the Calculator Application">
+      <created>1602257903188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602257903188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[TASK] | MIS-6 | JS | add header to app" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TASK] | MIS-6 | JS | add header to app" />
+    <MESSAGE value="[TASK] | MIS-6 | JS, CSS | finish the Calculator Application" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TASK] | MIS-6 | JS, CSS | finish the Calculator Application" />
   </component>
 </project>
